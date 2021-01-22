@@ -5,3 +5,5 @@ end
 def methodz(p1 p2)
   puts p1 + " " + p2
 end
+methodz("stretch")
+methodz("pop" "pup")
